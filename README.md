@@ -16,3 +16,8 @@ as last two arguments.
 The Laplacian edge detector uses only one kernel.
 It calculates second order derivatives in a single pass.
 
+
+Libraries required.....
+
+Opencv and
+Numpy
